@@ -1,0 +1,4 @@
+flask
+flask[async]
+psycopg2-binary
+ib_insync
